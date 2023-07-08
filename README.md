@@ -1,1 +1,1 @@
-# machine learning 
+# SYNC internship 
