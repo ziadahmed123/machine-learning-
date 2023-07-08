@@ -1,1 +1,1 @@
-# SYNC-Intertainship
+# machine learning 
